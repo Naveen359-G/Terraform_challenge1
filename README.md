@@ -65,8 +65,9 @@ Define environment variables inside mariadb resource:
 MYSQL_ROOT_PASSWORD=1234
 MYSQL_DATABASE=simple-website
 Attach volume mariadb-volume to /var/lib/mysql directory within db container.
+
 -Create a terraform resource named mariadb_volume creating a docker volume with name=mariadb-volume
-========================================================================================================================= 
+ 
 =========================================================================================================================
 
 # Steps to the Solution:
