@@ -67,7 +67,10 @@ MYSQL_DATABASE=simple-website
 Attach volume mariadb-volume to /var/lib/mysql directory within db container.
 
 -Create a terraform resource named mariadb_volume creating a docker volume with name=mariadb-volume
- 
+
+=========================================================================================================================
+![Terraform task](https://private-user-images.githubusercontent.com/62663965/328015622-594d9acd-1f41-4571-b233-fd4a5675f9ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5MTA2MzAsIm5iZiI6MTcxNDkxMDMzMCwicGF0aCI6Ii82MjY2Mzk2NS8zMjgwMTU2MjItNTk0ZDlhY2QtMWY0MS00NTcxLWIyMzMtZmQ0YTU2NzVmOWNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDExNTg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiNTFlMzYxMGU0NTg1ZjAxZmE4MzU3MDk3ZTY1N2U2YTQxM2RkMzU5MmZiZmRkYzIxYWQ2MDU5NThjMDE3YjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-qMs4UYm4bKmu0orguOykeYkToIyBRhUeka8ySDntb8)
+
 =========================================================================================================================
 
 # Steps to the Solution:
