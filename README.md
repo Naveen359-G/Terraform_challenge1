@@ -137,7 +137,7 @@ Use the docker ps command to verify that the Docker containers (webserver, db, d
 docker ps
 ```
 
-Step 9: Clean Up (Optional)
+# Step 9: Clean Up (Optional)
 If needed, you can clean up resources by destroying the Terraform-managed infrastructure:
 
 ```JSON
